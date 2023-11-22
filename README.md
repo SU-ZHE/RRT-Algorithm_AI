@@ -8,20 +8,19 @@ You have to intsall python version 3.10 or above
 
 and the 'coppeliasim' version 4.4 or bove  
 
-# install dependencies 
+#install dependencies 
 pip install opencv-python numpy
-
 
 pip install vrep
 
-# final job demo 
-# 1. Open "path  planning.ttt" and start Simulation
-# 2. Run the following program: 
+#final job demo 
+#1. Open "path  planning.ttt" and start Simulation
+#2. Run the following program: 
 main.py 
 
-# Test: RRT path planning
+#Test: RRT path planning
  path_planning.py 
-# Test: RRT path pruning
+#Test: RRT path pruning
 path_pruning.py 
-# Test: line patrol 
+#Test: line patrol 
 path_following.py
