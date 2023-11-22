@@ -19,8 +19,13 @@ pip install vrep
 main.py 
 
 #Test: RRT path planning
- path_planning.py 
+
+ path_planning.py
+ 
 #Test: RRT path pruning
+
 path_pruning.py 
+
 #Test: line patrol 
+
 path_following.py
