@@ -14,7 +14,7 @@ pip install vrep
 # final job demo 
 # 1. Open "path  planning.ttt" and start Simulation
 # 2. Run the following program: 
-         main.py 
+main.py 
 
 # Test: RRT path planning
  path_planning.py 
